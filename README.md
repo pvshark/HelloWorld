@@ -1,4 +1,4 @@
 # HelloWorld
 My fisrt repository
 
-I started today a new repository, to improve my studies and keep praticing.
+I started today(q8/08/2017) a new repository, to improve my studies and keep praticing.
